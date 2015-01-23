@@ -16,6 +16,7 @@ public class LabGitHub1 {
      */
     public static void main(String[] args) {
         System.out.println("Bonjour <prenom>!");
+        System.out.println("Pouet1");
     }
     
 }
