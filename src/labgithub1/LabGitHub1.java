@@ -15,7 +15,7 @@ public class LabGitHub1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Bonjour <prenom>!");
+        System.out.println("Bonjour "+ args[0]);
         System.out.println("Pouet1");
     }
     
