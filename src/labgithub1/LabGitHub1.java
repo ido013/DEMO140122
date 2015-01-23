@@ -20,6 +20,7 @@ public class LabGitHub1 {
             System.exit(0);
         }
         System.out.println("Bonjour "+ args[0]);
+        System.out.println("Bonjour "+ args[0]);
     }
     
 }
